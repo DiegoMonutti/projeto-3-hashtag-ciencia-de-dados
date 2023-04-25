@@ -10,3 +10,7 @@ Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a 
 
 Dataset utilizado (Link para download):
 https://drive.google.com/file/d/1zTr-abZx7ducevxfZiYlbx3WxT5pTkt5/view
+
+- Essa dataset possui os preços dos imóveis obtidos e suas respectivas características em cada mês.
+- Os preços são dados em reais (R$).
+- Temos as bases de abril de 2018 até maio de 2020, com exceção de junho de 2018 que não consta na base de dados.
